@@ -1,7 +1,7 @@
 # Top Cine🎬
 
 
-https://ka1quee.github.io/TopCine/
+https://ka1quee.github.io/TopCine/     
 
 
 # Sobre o projeto
@@ -30,6 +30,9 @@ TopCine é um projeto desenvolvido em equipe que tem como objetivo recomendar fi
 
 # Autores
 
+### Cesar Rodrigues
+https://www.linkedin.com/in/victor-da-silva-83a2b4270/
+
 ### Kaique Oliveira de Freitas Mota
 https://www.linkedin.com/in/kaique-oliveira-489451251/
 
@@ -49,5 +52,4 @@ https://www.linkedin.com/in/juan-pina-7922a625b/?utm_source=share&utm_campaign=s
 
 https://www.linkedin.com/in/victor-da-silva-83a2b4270/
 
-### Cesar Rodrigues
-https://www.linkedin.com/in/victor-da-silva-83a2b4270/
+
